@@ -1,7 +1,7 @@
-# EduChat-Knowledge-Based-AI-Teaching-Assistant-Chatbot
+# DEVELOPING AN INTERACTIVE WEB APPLICATION FOR QUIZ-BASED LEARNING ASSESSMENT
 
 ### Overview
-**EduChat** is an interactive web application designed to enhance student learning through quiz-based AI assistance. The system allows students to practice quizzes and receive feedback in real-time.
+This project is an interactive web application designed to enhance student learning through quiz-based learning assessment. The system allows students to practice quizzes and receive feedback in real-time.
 
 ---
 

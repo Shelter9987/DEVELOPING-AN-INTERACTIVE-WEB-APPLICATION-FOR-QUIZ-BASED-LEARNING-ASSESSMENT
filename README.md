@@ -56,5 +56,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## GitHub Link
-https://github.com/Shelter9987/EduChat-Knowledge-Based-AI-Teaching-Assistant-Chatbot
+https://github.com/Shelter9987/DEVELOPING-AN-INTERACTIVE-WEB-APPLICATION-FOR-QUIZ-BASED-LEARNING-ASSESSMENT.git
 
